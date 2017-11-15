@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RibbonAndYoutube</string>
+
+    <string-array name="videoID">
+        <item>XQb6Jl9H6Zs</item>
+        <item>dGx4Qv4Aecc</item>
+        <item>paz48hGEgdM</item>
+        <item>gdOuglUpVrk</item>
+    </string-array>
+</resources>
